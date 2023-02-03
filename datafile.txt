@@ -1,8 +1,0 @@
-0.5
-6
-Paratha, Makhan, Anda, Sharbat
-Paratha, Makhan, Sharbat
-Paratha, Doodh, Dahi
-Paratha, Sharbat, Doodh
-Man, Sharbat, Doodh
-Paratha, Anda, Makhan, Sharbat
