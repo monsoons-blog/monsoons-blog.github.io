@@ -4,7 +4,7 @@ html[theme='dark-mode'] {
 
 body {
   line-height: 1;
-  font: normal 19px/1.5em 'adobe-garamond-pro',Garamond,Baskerville,Baskerville Old Face,Hoefler Text,Times New Roman,PT Serif;
+  font: normal 20px/2.5em 'adobe-garamond-pro',Garamond,Baskerville,Baskerville Old Face,Hoefler Text,Times New Roman,PT Serif;
   color: #404040;
   line-height: 1.75;
   letter-spacing: 0.01em;
@@ -153,7 +153,7 @@ nav.navigation a {
   right: 6px;
   padding: 8px 12px;
   color: #5badf0;
-  font-size: 13px;
+  font-size: 17px;
   line-height: 1.35;
   border-radius: 3px;
 }
@@ -180,7 +180,7 @@ nav.navigation a.button {
     right: 6px;
     padding: 8px 8px;
     color: #5badf0;
-    font-size: 13px;
+    font-size: 17px;
     line-height: 1.35;
     border-radius: 3px;
   }
@@ -298,7 +298,7 @@ nav.navigation a.button {
 #list-page .title {
   display: inline-block;
   color: #404040;
-  font-size: 20px;
+  font-size: 23px;
   font-weight: 400;
   margin: 0;
   width: 80%;
@@ -358,8 +358,9 @@ nav.navigation a.button {
 /* single page */
 #single {
   max-width: 680px;
-  margin: 60px auto 0 auto;
+  margin: 60px 80 0 auto;
   padding: 0 64px;
+  margin-top: 50px;
 }
 
 #single .title {
