@@ -263,9 +263,19 @@ nav.navigation a.button {
 }
 
 .profile .avatar {
-  display: inline-block;
+  display: block;
   width: 45%;
   height: 45%;
+  float: right;
+}
+
+@media (max-width: 700px) {
+  .profile .avatar {
+    display: block;
+    width: 45%;
+    height: 45%;
+    float: center;
+  }
 }
 
 .profile h1 {
