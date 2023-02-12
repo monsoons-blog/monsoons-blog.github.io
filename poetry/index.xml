@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Monsoons</title>
-    <link>https://theotherkhan.github.io/</link>
+    <link>https://theotherkhan.github.io/poetry/</link>
     <description>Recent content on Monsoons</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://theotherkhan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://theotherkhan.github.io/poetry/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ancestor</title>
       <link>https://theotherkhan.github.io/poetry/ancestor/</link>
@@ -16,17 +16,6 @@
       <description>Confusing myself for the bad deed I woke up at sunrise and said: not anymore Like escaping your own smell And I would molt skin and bone but my ancestor said: the scent lingers
 Incarcerated firefighters today announced a breakthrough and I was heartbroken in believing the progress
 Retaliations confused us, we thought we had quenched it safely in Syria, or California until the jungles melted to a virus of trash bags masked in tropical fragrance</description>
-    </item>
-    
-    <item>
-      <title>Arcade America</title>
-      <link>https://theotherkhan.github.io/prose/aa/</link>
-      <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://theotherkhan.github.io/prose/aa/</guid>
-      <description>For three minutes, twenty-one gamers at Arcade America watched Sameer convulse on the floor.
-Witnesses recall Sameer Shaheed, a 12-year-old refugee boy, calling out before the time of his death. Sameer had been playing Stormhill, a popular virtual reality shooter game set in a fictionalized version of his home country.
-“I remember being scared at the time. His words sounded like the bad guys from Stormhill,” said Lyola Thomas, a frequent customer at Arcade America.</description>
     </item>
     
     <item>
@@ -40,16 +29,6 @@ here mildew permeates my routine. i spray the killer, spray &amp;amp; shine &amp
 concedes my sins &amp;amp; perfect absence feels so near. now look below: i, the tollund
 man, am buried here and my grimace forewarns of a particular home-video-grief. now am I
 speaking to a grandfather or some artificial intelligence?</description>
-    </item>
-    
-    <item>
-      <title>Hi!</title>
-      <link>https://theotherkhan.github.io/about/</link>
-      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://theotherkhan.github.io/about/</guid>
-      <description>Hi! I&amp;rsquo;m a Master&amp;rsquo;s CS student at NYU Courant, and formerly a Data Scientist at the Logistics Management Institute in Washington DC. I have 2+ years of experience with applied machine learning and software development for federal clients. My research interests include generative language modeling and NLP on low resource languages.
-On the side, I am an organizer at Alif Se Yeh, an Urdu poetry and literature learning platform.</description>
     </item>
     
   </channel>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Monsoons</title>
+    <link>https://theotherkhan.github.io/prose/</link>
+    <description>Recent content on Monsoons</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://theotherkhan.github.io/prose/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arcade America</title>
+      <link>https://theotherkhan.github.io/prose/aa/</link>
+      <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://theotherkhan.github.io/prose/aa/</guid>
+      <description>For three minutes, twenty-one gamers at Arcade America watched Sameer convulse on the floor.
+Witnesses recall Sameer Shaheed, a 12-year-old refugee boy, calling out before the time of his death. Sameer had been playing Stormhill, a popular virtual reality shooter game set in a fictionalized version of his home country.
+“I remember being scared at the time. His words sounded like the bad guys from Stormhill,” said Lyola Thomas, a frequent customer at Arcade America.</description>
+    </item>
+    
+  </channel>
+</rss>

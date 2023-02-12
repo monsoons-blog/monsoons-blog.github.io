@@ -3,13 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://theotherkhan.github.io/</loc>
+    <lastmod>2023-02-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://theotherkhan.github.io/poetry/</loc>
+    <lastmod>2023-02-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://theotherkhan.github.io/prose/</loc>
+    <lastmod>2023-02-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://theotherkhan.github.io/poetry/ancestor/</loc>
+    <lastmod>2023-02-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://theotherkhan.github.io/prose/aa/</loc>
+    <lastmod>2023-02-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://theotherkhan.github.io/poetry/tollund/</loc>
+    <lastmod>2023-02-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://theotherkhan.github.io/about/</loc>
     <lastmod>2023-02-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://theotherkhan.github.io/posts/hi/</loc>
-    <lastmod>2023-02-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://theotherkhan.github.io/posts/</loc>
-    <lastmod>2023-02-02T00:00:00+00:00</lastmod>
+    <loc>https://theotherkhan.github.io/notes/</loc>
+    <priority>0</priority>
   </url><url>
     <loc>https://theotherkhan.github.io/categories/</loc>
   </url><url>
