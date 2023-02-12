@@ -269,7 +269,7 @@ nav.navigation a.button {
   float: right;
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 700px) {
   .profile .avatar {
     display: block;
     width: 100%;
