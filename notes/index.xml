@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Monsoons</title>
-    <link>https://theotherkhan.github.io/notes/</link>
+    <link>https://monsoons-blog.github.io/notes/</link>
     <description>Recent content on Monsoons</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://theotherkhan.github.io/notes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://monsoons-blog.github.io/notes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Shairi notes: On community building</title>
-      <link>https://theotherkhan.github.io/notes/community/</link>
+      <link>https://monsoons-blog.github.io/notes/community/</link>
       <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://theotherkhan.github.io/notes/community/</guid>
+      <guid>https://monsoons-blog.github.io/notes/community/</guid>
       <description>Reading is, for most of us, a solitary activity. On the subway, over lunch breaks, during layovers, curled up in bed - no matter where we are, books allows us to escape, if only momentarily, into our own world. While reading circles can provide forums for discussion, and for sharing the worlds we build during reading with others, in my experience they can feel stuffy, require assigned reading, and become transient as people come and go.</description>
     </item>
     
     <item>
       <title>Shairi notes: Interconnections</title>
-      <link>https://theotherkhan.github.io/notes/diagram/</link>
+      <link>https://monsoons-blog.github.io/notes/diagram/</link>
       <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://theotherkhan.github.io/notes/diagram/</guid>
+      <guid>https://monsoons-blog.github.io/notes/diagram/</guid>
       <description>The world of Urdu shairi is deeply interconnected - and in constant conversation with the wider world. This diagram depicts relationships between poets we covered during shairi in 2022.</description>
     </item>
     
