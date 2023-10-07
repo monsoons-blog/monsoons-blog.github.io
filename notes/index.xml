@@ -6,15 +6,24 @@
     <description>Recent content on Monsoons</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://monsoons-blog.github.io/notes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://monsoons-blog.github.io/notes/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Shairi notes: Jeopardy</title>
-      <link>https://monsoons-blog.github.io/notes/jeopardy/</link>
-      <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
+      <title>The Garden 🥀</title>
+      <link>https://monsoons-blog.github.io/notes/garden/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://monsoons-blog.github.io/notes/jeopardy/</guid>
-      <description>Jeaopardy is an annual Shairi tradition. The following board represents a year-in-review of all the poems we&amp;rsquo;ve covered over the past year:
-Online Jeopardy Maker - JeopardyLabs! </description>
+      <guid>https://monsoons-blog.github.io/notes/garden/</guid>
+      <description>The Garden is a recurring theme in Urdu shairi. From serving as a metaphor of paradise to acting as a container for other motifs (the rose, the nightingale, the moth), gardens hold varying symbolisms in adab. This week we’ll explore the garden through a writing workshop. First we’ll read a collection of ashaar where the garden and its elements play differing symbolic roles, followed by working on our own poetry using the imagery discussed.</description>
+    </item>
+    
+    <item>
+      <title>Writing Guide</title>
+      <link>https://monsoons-blog.github.io/notes/guide/</link>
+      <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://monsoons-blog.github.io/notes/guide/</guid>
+      <description>Ghazals 🔗Overview
+Originating in 7th century Arabia, this form of shairi has historically focused on matters of love (spiritual or worldy), with a particular emphasis on separation and reunification with the beloved. While the technical constraints are strict, ghazals do not need to have a single topic running through the poem. Rather, they emphasize a tone or a mood more than any narrative continuity. Often abstract, ghazals employ contradictions, opposites and multiplicities of meaning.</description>
     </item>
     
     <item>
@@ -42,6 +51,16 @@ Online Jeopardy Maker - JeopardyLabs! </description>
       
       <guid>https://monsoons-blog.github.io/notes/diagram/</guid>
       <description>The world of Urdu shairi is deeply interconnected - and in constant conversation with the wider world. This diagram depicts relationships between poets we covered during shairi in 2022.</description>
+    </item>
+    
+    <item>
+      <title>Shairi notes: Jeopardy</title>
+      <link>https://monsoons-blog.github.io/notes/jeopardy/</link>
+      <pubDate>Wed, 06 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://monsoons-blog.github.io/notes/jeopardy/</guid>
+      <description>Jeaopardy is an annual Shairi tradition. The following board represents a year-in-review of all the poems we&amp;rsquo;ve covered over the past year:
+Online Jeopardy Maker - JeopardyLabs! </description>
     </item>
     
   </channel>
