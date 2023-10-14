@@ -1,12 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Monsoons</title>
+    <title>Rumuuz</title>
     <link>https://monsoons-blog.github.io/</link>
-    <description>Recent content on Monsoons</description>
+    <description>Recent content on Rumuuz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://monsoons-blog.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://monsoons-blog.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coronation</title>
+      <link>https://monsoons-blog.github.io/poetry/coronation/</link>
+      <pubDate>Sat, 14 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://monsoons-blog.github.io/poetry/coronation/</guid>
+      <description>aisa bhi koi khuda kya — ke chalte kaam jaayenge rook? — Poor Rich Boy, “Tootay Huay Admi”
+I. i have forty fasts neglected, marked into my skin like tallies for when it is time for condensation. now waiting. now the singed scent of deposition. now silence. now i am studying my ancestors, my experiments. now let me assess.
+II. my Lord do not let this spring bloom. do not let the vine climb any higher or i will confuse its shadow for an eclipse.</description>
+    </item>
+    
     <item>
       <title>کچھ خطوں كی راکھ</title>
       <link>https://monsoons-blog.github.io/poetry/khat/</link>
@@ -256,8 +267,8 @@ Responsibility shoved into words: this poem The confusion of profit, of prophets
       <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://monsoons-blog.github.io/about/</guid>
-      <description>Rumuuz is a poetry group and writer&amp;rsquo;s collective based in New York City. We host poetry workshops, organize shairi nights, and discuss qawwalis. Updated monthly! To submit your work, please email munshi@rumuuz.org.
-ٓA note on the name: Rumuuz (رموز) is the plural form of the arabic derived ramz, meaning sign, code or hint.
+      <description>Rumuuz is a poetry group and writer&amp;rsquo;s collective based in New York City. We host poetry workshops, organize shairi nights, and discuss qawwalis. Updated monthly! For general inquiries, or to submit your work, please email munshi@rumuuz.org.
+ٓA note on the name: Rumuuz (رموز) is the plural form of the Arabic derived ramz, meaning sign, code or hint.
 Current contributors: Hasan Khan Zainab Akhtar Rachita Singh Ishaan Saxena mosambiyaar</description>
     </item>
     
@@ -267,9 +278,7 @@ Current contributors: Hasan Khan Zainab Akhtar Rachita Singh Ishaan Saxena mosam
       <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://monsoons-blog.github.io/subscribe/</guid>
-      <description>Subscribe for our newsletter!
-Enter your email address
-powered by TinyLetter</description>
+      <description>Subscribe to our newsletter!</description>
     </item>
     
     <item>
