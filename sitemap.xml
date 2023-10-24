@@ -3,12 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://monsoons-blog.github.io/</loc>
-    <lastmod>2023-10-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://monsoons-blog.github.io/poetry/</loc>
-    <lastmod>2023-10-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://monsoons-blog.github.io/poetry/fortalice/</loc>
+    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://monsoons-blog.github.io/poetry/coronation/</loc>
     <lastmod>2023-10-14T00:00:00+00:00</lastmod>
@@ -18,7 +19,6 @@
   </url><url>
     <loc>https://monsoons-blog.github.io/notes/</loc>
     <lastmod>2023-10-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url><url>
     <loc>https://monsoons-blog.github.io/notes/garden/</loc>
     <lastmod>2023-10-05T00:00:00+00:00</lastmod>
@@ -28,7 +28,6 @@
   </url><url>
     <loc>https://monsoons-blog.github.io/prose/</loc>
     <lastmod>2023-09-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url><url>
     <loc>https://monsoons-blog.github.io/prose/clay/</loc>
     <lastmod>2023-09-03T00:00:00+00:00</lastmod>
