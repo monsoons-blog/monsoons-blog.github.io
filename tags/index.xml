@@ -5,6 +5,25 @@
     <link>https://monsoons-blog.github.io/tags/</link>
     <description>Recent content in Tags on Rumuuz</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://monsoons-blog.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://monsoons-blog.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Poetry</title>
+      <link>https://monsoons-blog.github.io/tags/poetry/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://monsoons-blog.github.io/tags/poetry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Notes</title>
+      <link>https://monsoons-blog.github.io/tags/notes/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://monsoons-blog.github.io/tags/notes/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
