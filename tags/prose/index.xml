@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prose on Rumuuz</title>
+    <link>https://monsoons-blog.github.io/tags/prose/</link>
+    <description>Recent content in Prose on Rumuuz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://monsoons-blog.github.io/tags/prose/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Boy of Clay</title>
+      <link>https://monsoons-blog.github.io/prose/clay/</link>
+      <pubDate>Sun, 03 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://monsoons-blog.github.io/prose/clay/</guid>
+      <description>Kara’s music had struck me in a way unlike anything I’d heard. Her voice seemed to me both apologetic and confident at once. It also carried with it a familiar accent; the way she pronounced her d’s and t’s reminded me of the old film sets in the Northeast, in which a character might speak with a kind of Robert De Niro accent. I couldn’t help but feel this was artificial, because in her conversational voice, the accent was nowhere to be found.</description>
+    </item>
+    
+    <item>
+      <title>1 dead at Arcade America</title>
+      <link>https://monsoons-blog.github.io/prose/aa/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://monsoons-blog.github.io/prose/aa/</guid>
+      <description>For three minutes, twenty-one players at Arcade America watched Sameer convulse on the floor.
+Witnesses recall Sameer Shaheed, a 12-year-old refugee boy, calling out before the time of his death. Sameer had been playing Stormhill, a popular virtual reality game set in a fictionalized version of his home country.
+“I remember being scared at the time. His words sounded like the bad guys from Stormhill,” said Lyola Thomas, a frequent customer at Arcade America.</description>
+    </item>
+    
+  </channel>
+</rss>
