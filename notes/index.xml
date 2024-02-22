@@ -5,7 +5,7 @@
     <link>https://monsoons-blog.github.io/notes/</link>
     <description>Recent content on Rumuuz</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en-US</language>
     <lastBuildDate>Thu, 05 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://monsoons-blog.github.io/notes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Garden 🥀</title>
@@ -61,6 +61,15 @@ Originating in 7th century Arabia, this form of shairi has historically focused 
       <guid>https://monsoons-blog.github.io/notes/jeopardy/</guid>
       <description>Jeaopardy is an annual Shairi tradition. The following board represents a year-in-review of all the poems we&amp;rsquo;ve covered over the past year:
 Online Jeopardy Maker - JeopardyLabs! </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://monsoons-blog.github.io/notes/hi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://monsoons-blog.github.io/notes/hi/</guid>
+      <description></description>
     </item>
     
   </channel>

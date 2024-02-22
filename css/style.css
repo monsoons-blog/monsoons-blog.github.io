@@ -1,13 +1,24 @@
+
 html[theme='dark-mode'] {
   filter: invert(1) hue-rotate(180deg);
 }
 
+
+
 body {
   line-height: 1;
-  font: normal 19px/2.0em 'adobe-garamond-pro', Garamond, Baskerville Old Face, Hoefler Text, Times New Roman, PT serif;
+  font: normal 19px/2.0em 'adobe-garamond-pro', 'Garamond', 'Baskerville Old Face', 'Hoefler Text', 'Times New Roman', 'PT serif', 'Noto Nastaliq Urdu';
   color: #404040;
   line-height: 1.75;
   letter-spacing: 0.01em;
+}
+
+
+
+
+@font-face {
+  font-family: 'Noto Nastaliq Urdu';
+ src: url("https://fonts.googleapis.com/css?family=Noto Nastaliq Urdu");
 }
 
 a {
@@ -84,7 +95,19 @@ h3 {
 p {
   margin-block-start: 1.5em;
   margin-block-end: 1.5em;
+  
 }
+
+:lang(ur) p {
+  font-family: 'Noto Nastaliq Urdu';
+  font-size: 22px;
+  line-height:2.6;
+  margin-block-start: 1.5em;
+  margin-block-end: 1.5em;
+  word-spacing: 0.3rem;
+  
+}
+
 p,
 pre {
   word-break: normal;
@@ -350,7 +373,12 @@ nav.navigation a.button {
 
 /* single page */
 #single {
-  max-width: 680px;
+  padding: 0 64px;
+  margin-top: 50px;
+}
+
+:lang(ur) #single {
+  direction: rtl;
   padding: 0 64px;
   margin-top: 50px;
 }
@@ -361,6 +389,19 @@ nav.navigation a.button {
   font-weight: 400;
   line-height: 48px;
 }
+
+
+:lang(ur) #single .title {
+  text-align: right;
+  direction: rtl;
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 48px;
+  font-family: 'Noto Nastaliq Urdu';
+}
+
+
+
 
 @media (max-width: 700px) {
   #single {
@@ -379,6 +420,14 @@ nav.navigation a.button {
   margin-top: 18px;
   font-size: 14px;
 }
+
+:lang(ur) #single .tip {
+  text-align: right;
+  color: #8c8c8c;
+  margin-top: 18px;
+  font-size: 14px;
+}
+
 #single .tip .split {
   margin: 0 4px;
 }
@@ -531,3 +580,4 @@ nav.navigation a.button {
   top: 1px;
   color: #bbb;
 }
+
