@@ -99,7 +99,7 @@ p {
 }
 
 :lang(ur) p {
-  font-family: 'Noto Nastaliq Urdu';
+  font-family: 'Mehr Nastaliq Web';
   font-size: 22px;
   line-height:2.6;
   margin-block-start: 1.5em;
@@ -397,7 +397,7 @@ nav.navigation a.button {
   font-size: 32px;
   font-weight: 400;
   line-height: 48px;
-  font-family: 'Noto Nastaliq Urdu';
+  font-family: 'Mehr Nastaliq Web';
 }
 
 
