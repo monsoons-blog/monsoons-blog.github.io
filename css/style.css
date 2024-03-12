@@ -14,7 +14,7 @@ body {
 }
 
 :lang(ur) body {
-  font: normal 19px/2.0em 'Noto Nastaliq Urdu';
+  font: normal 19px/2.0em 'Noto Nastaliq Urdu', 'adobe-garamond-pro', 'Garamond', 'Baskerville Old Face', 'Hoefler Text', 'Times New Roman', 'PT serif';
   color: #404040;
   line-height: 1.75;
   letter-spacing: 0.01em;
