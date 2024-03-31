@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://monsoons-blog.github.io/</loc>
-    <lastmod>2024-03-12T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ur"
@@ -15,11 +15,11 @@
                 href="https://monsoons-blog.github.io/"
                 />
   </url><url>
-    <loc>https://monsoons-blog.github.io/poetry/</loc>
-    <lastmod>2024-03-12T00:00:00+00:00</lastmod>
+    <loc>https://monsoons-blog.github.io/ur/</loc>
+    <lastmod>2024-03-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://monsoons-blog.github.io/tags/poetry/</loc>
-    <lastmod>2024-03-12T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ur"
@@ -31,11 +31,8 @@
                 href="https://monsoons-blog.github.io/tags/poetry/"
                 />
   </url><url>
-    <loc>https://monsoons-blog.github.io/poetry/sarcohpagus/</loc>
-    <lastmod>2024-03-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://monsoons-blog.github.io/tags/</loc>
-    <lastmod>2024-03-12T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ur"
@@ -46,9 +43,6 @@
                 hreflang="en-US"
                 href="https://monsoons-blog.github.io/tags/"
                 />
-  </url><url>
-    <loc>https://monsoons-blog.github.io/ur/</loc>
-    <lastmod>2024-03-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://monsoons-blog.github.io/ur/nazm_shahaan/</loc>
     <lastmod>2024-03-07T00:00:00+00:00</lastmod>
@@ -67,6 +61,9 @@
   </url><url>
     <loc>https://monsoons-blog.github.io/ur/raakhein/</loc>
     <lastmod>2023-11-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://monsoons-blog.github.io/poetry/</loc>
+    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://monsoons-blog.github.io/poetry/qurbat/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
