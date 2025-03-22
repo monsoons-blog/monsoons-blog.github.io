@@ -381,12 +381,14 @@ nav.navigation a.button {
 #single {
   padding: 0 64px;
   margin-top: 50px;
+
 }
 
 :lang(ur) #single {
   direction: rtl;
   padding: 0 64px;
   margin-top: 50px;
+  width: auto;
 }
 
 #single .title {
