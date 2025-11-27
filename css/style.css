@@ -410,7 +410,6 @@ nav.navigation a.button {
 
 
 
-
 @media (max-width: 700px) {
   #single {
     padding: 0 18px;
@@ -440,8 +439,14 @@ nav.navigation a.button {
   margin: 0 4px;
 }
 
-#single .content {
+:lang(ur) #single .content {
   margin-top: 36px;
+  margin-left: 30%;
+}
+
+:lang(en) #single .content {
+  margin-top: 36px;
+  margin-right: 30%;
 }
 
 #single .tags {
