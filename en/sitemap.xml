@@ -18,17 +18,17 @@
     <loc>https://monsoons-blog.github.io/ur/</loc>
     <lastmod>2025-11-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://monsoons-blog.github.io/tags/poetry/</loc>
+    <loc>https://monsoons-blog.github.io/tags/ghazal/</loc>
     <lastmod>2025-11-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ur"
-                href="https://monsoons-blog.github.io/ur/tags/poetry/"
+                href="https://monsoons-blog.github.io/ur/tags/ghazal/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://monsoons-blog.github.io/tags/poetry/"
+                href="https://monsoons-blog.github.io/tags/ghazal/"
                 />
   </url><url>
     <loc>https://monsoons-blog.github.io/tags/</loc>
@@ -47,11 +47,34 @@
     <loc>https://monsoons-blog.github.io/ur/ghazal_2_hasan/</loc>
     <lastmod>2025-11-23T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://monsoons-blog.github.io/tags/nazm/</loc>
+    <lastmod>2025-10-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ur"
+                href="https://monsoons-blog.github.io/ur/tags/nazm/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://monsoons-blog.github.io/tags/nazm/"
+                />
+  </url><url>
     <loc>https://monsoons-blog.github.io/ur/nazm_2_shahaan/</loc>
     <lastmod>2025-10-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://monsoons-blog.github.io/ur/nazm_2_arsalaan/</loc>
+    <loc>https://monsoons-blog.github.io/tags/poetry/</loc>
     <lastmod>2025-10-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ur"
+                href="https://monsoons-blog.github.io/ur/tags/poetry/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://monsoons-blog.github.io/tags/poetry/"
+                />
   </url><url>
     <loc>https://monsoons-blog.github.io/ur/nazm_1_zeba/</loc>
     <lastmod>2025-10-23T00:00:00+00:00</lastmod>
@@ -106,6 +129,9 @@
   </url><url>
     <loc>https://monsoons-blog.github.io/ur/nazm_1_shahaan/</loc>
     <lastmod>2024-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://monsoons-blog.github.io/ur/nazm_2_arsalaan/</loc>
+    <lastmod>2024-02-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://monsoons-blog.github.io/ur/karwaahat/</loc>
     <lastmod>2024-02-22T00:00:00+00:00</lastmod>
