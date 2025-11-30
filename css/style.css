@@ -441,12 +441,12 @@ nav.navigation a.button {
 
 :lang(ur) #single .content {
   margin-top: 36px;
-  margin-left: 30%;
+  margin-left: 20%;
 }
 
 :lang(en) #single .content {
   margin-top: 36px;
-  margin-right: 30%;
+  margin-right: 20%;
 }
 
 #single .tags {
