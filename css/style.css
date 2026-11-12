@@ -447,6 +447,14 @@ nav.navigation a.button {
   margin-top: 36px;
 }
 
+/* Prose, short story, and mazmoon: keep the line length to half the page on desktop */
+@media (min-width: 701px) {
+  #single .content.content-narrow {
+    max-width: 50%;
+    margin-inline-end: auto;
+  }
+}
+
 #single .tags {
   margin-top: 24px;
 }
