@@ -6,7 +6,16 @@
     <description>Recent content on Rumuuz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 11 Oct 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://monsoons-blog.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Nov 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://monsoons-blog.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zine II: Introduction</title>
+      <link>https://monsoons-blog.github.io/notes/z2_intro/</link>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://monsoons-blog.github.io/notes/z2_intro/</guid>
+      <description>Rumuuz is a community of friends exploring and continuing the tradition of Urdu poetry in New York City. Our perspectives start in each other’s homes, where we meet on Thursdays for poetry discussions and writing workshops. In a city where written Urdu rarely appears and an era when writing faces increased automation, this zine represents an attempt not only to preserve Urdu poetics, but to think about its progression through analog mediums in community.</description>
+    </item>
+    
     <item>
       <title>خلود وِلاز</title>
       <link>https://monsoons-blog.github.io/ur/khulud/</link>
@@ -25,7 +34,7 @@
       
       <guid>https://monsoons-blog.github.io/ur/ghazal_2_hasan/</guid>
       <description>بولنے کے لیے کچھ نہ رہا ہم نظم کی طرف مڑے زبان کو تھام کر ہاتھ قلم کی طرف مڑے
-بے خودی کی جستجو میں نگر سے نکلے جنگل تک چلے پھر اس تنہائی سے بھی نکلے، واپس بزم کی طرف مڑے
+بے خودی کی جستجو میں نگر سے نکلے جنگل تک چلے پھر اس تنہائی سے نکلے، واپس بزم کی طرف مڑے
 نورِ تجدید ایک دم پھیلا تو شہر کو پھر ایمان ملا
 بُت بھی خدا کو مان پڑے، واپس حرم کی طرف مڑے
 سیدھا راستہ چلتے چلتے اُس کا کوچہ پھر سے آیا</description>
@@ -67,6 +76,24 @@ The moment when a moth realizes death is imminent.</description>
 گر زندگی دریا تو تُو اک ندی کے
 کناروں پہ نقشِ قدم بن گیا ہے
 غائب ہے شمسؔ فلک سے مگر اب</description>
+    </item>
+    
+    <item>
+      <title>دار الحرب میں طالبِ علم</title>
+      <link>https://monsoons-blog.github.io/ur/ghazal_1_bahawar/</link>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://monsoons-blog.github.io/ur/ghazal_1_bahawar/</guid>
+      <description>جبر یزیدی، ظلم فرعونی کیا ہے
+اپنی روح کا قتل، انہونی کیا ہے
+سچ کی تلاش میں چین کو نکل کر
+دل کا حال کچھ خونی کیا ہے
+انا میں فنا ہو کر، &amp;ldquo;ب&amp;rdquo; پڑھ کر
+شرک بے معافی، جنونی کیا ہے
+اپنے بدخواہ کے گھر میں بس کر
+جرم سنگین پر قانونی کیا ہے
+کام یہ کسی ہم سفر کے بنا باہوؔ
+بے گواہی، بے سہارا، افلاطونی کیا ہے</description>
     </item>
     
     <item>
@@ -254,24 +281,6 @@ holding within, a time ago</description>
 یہ پہاڑ سکوت ہے ، وہ ندی بیان
 ان دونوں کے درمیان کہیں رُکا ہوں میں مور کی ندا میں اک رمزیہ زبان لکھ لکھ کر اس کو اب مٹ چکا ہوں میں ہےاک شجر بہشت میں، لفظوں سے لبریز
 شاید ابھی ابلیس سے وہیں ملا ہوں میں شمسؔ کی تجلّی تو گونجتی ہے عرش پر</description>
-    </item>
-    
-    <item>
-      <title>دار الحرب میں طالبِ علم</title>
-      <link>https://monsoons-blog.github.io/ur/ghazal_1_bahawar/</link>
-      <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://monsoons-blog.github.io/ur/ghazal_1_bahawar/</guid>
-      <description>جبر یزیدی، ظلم فرعونی کیا ہے
-اپنی روح کا قتل، انہونی کیا ہے
-سچ کی تلاش میں چین کو نکل کر
-دل کا حال کچھ خونی کیا ہے
-انا میں فنا ہو کر، &amp;ldquo;ب&amp;rdquo; پڑھ کر
-شرک بے معافی، جنونی کیا ہے
-اپنے بدخواہ کے گھر میں بس کر
-جرم سنگین پر قانونی کیا ہے
-کام یہ کسی ہم سفر کے بنا باہوؔ
-بے گواہی، بے سہارا، افلاطونی کیا ہے</description>
     </item>
     
     <item>
@@ -614,7 +623,7 @@ speaking to a grandfather or some artificial intelligence?</description>
       <guid>https://monsoons-blog.github.io/about/</guid>
       <description>Rumuuz is a poetry group and writer&amp;rsquo;s collective based in New York City. We host writing workshops, organize shayari nights, and make zines. For general inquiries, or to submit your work for our website, please email munshi@rumuuz.org.
 A note on the name: Rumuuz (رموز) is the plural form of ramz, meaning sign, code or hint.
-Current contributors: Meher Babbar Haseeb Javed Sanya Mansoor Naseer Ahmad Tabraiz Lodhi Harris Choudry Zainab Saeed Adeeb Dholakia Samee Ahmad Zainab Akhtar Zeba Siddiqui Arslan Mehal Kirat Pandher Hasan Khan Rachita Singh Vishāl Kella Mosambiyaar Saakin Site maintained by Hasan Khan.</description>
+Current contributors: Meher Babbar Haseeb Javed Sanya Mansoor Naseer Ahmad Tabraiz Lodhi Harris Chowdhary Zainab Saeed Adeeb Dholakia Samee Ahmad Zainab Akhtar Zeba Siddiqui Arslan Mehal Kirat Pandher Hasan Khan Rachita Singh Vishāl Kella Mosambiyaar Saakin Site maintained by Hasan Khan.</description>
     </item>
     
     <item>

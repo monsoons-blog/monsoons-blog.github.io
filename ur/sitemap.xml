@@ -63,6 +63,22 @@
     <loc>https://monsoons-blog.github.io/ur/matn_bangaya/</loc>
     <lastmod>2026-09-20T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://monsoons-blog.github.io/ur/tags/poetry/</loc>
+    <lastmod>2026-09-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://monsoons-blog.github.io/tags/poetry/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ur"
+                href="https://monsoons-blog.github.io/ur/tags/poetry/"
+                />
+  </url><url>
+    <loc>https://monsoons-blog.github.io/ur/ghazal_1_bahawar/</loc>
+    <lastmod>2026-09-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://monsoons-blog.github.io/ur/tags/nazm/</loc>
     <lastmod>2026-08-16T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -98,19 +114,6 @@
     <loc>https://monsoons-blog.github.io/ur/ghazal_haseeb/</loc>
     <lastmod>2026-06-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://monsoons-blog.github.io/ur/tags/poetry/</loc>
-    <lastmod>2025-11-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://monsoons-blog.github.io/tags/poetry/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ur"
-                href="https://monsoons-blog.github.io/ur/tags/poetry/"
-                />
-  </url><url>
     <loc>https://monsoons-blog.github.io/ur/ghazal_1_hasan/</loc>
     <lastmod>2025-11-20T00:00:00+00:00</lastmod>
   </url><url>
@@ -121,9 +124,6 @@
     <lastmod>2025-10-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://monsoons-blog.github.io/ur/ghazal_1_tabraiz/</loc>
-    <lastmod>2025-10-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://monsoons-blog.github.io/ur/ghazal_1_bahawar/</loc>
     <lastmod>2025-10-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://monsoons-blog.github.io/ur/ghazal_1_adeeb/</loc>
