@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Placeholder for the Shayar poster">
+  <rect width="800" height="1000" fill="#eceae4"/>
+  <g transform="translate(190,70)">
+    <rect x="6" y="8" width="414" height="760" fill="#e0dbd0"/>
+    <rect width="414" height="760" fill="#fbf8f2" stroke="#d8d3c8"/>
+    <circle cx="207" cy="210" r="54" fill="none" stroke="#404040" stroke-width="1.5"/>
+    <circle cx="207" cy="210" r="6" fill="#404040"/>
+    <text x="207" y="390" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="42" letter-spacing="10" fill="#404040">SHAYAR</text>
+    <line x1="120" y1="430" x2="294" y2="430" stroke="#d8d3c8" stroke-width="1"/>
+    <text x="207" y="480" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="16" letter-spacing="4" fill="#8a8478">A POSTER</text>
+  </g>
+  <text x="400" y="940" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="18" letter-spacing="3" fill="#9a958c">placeholder</text>
+</svg>

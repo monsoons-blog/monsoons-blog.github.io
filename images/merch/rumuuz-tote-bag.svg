@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Placeholder for the Rumuuz tote bag">
+  <rect width="800" height="1000" fill="#eceae4"/>
+  <g transform="translate(175,150)" fill="none" stroke="#c9c3b6" stroke-width="16" stroke-linecap="round">
+    <path d="M115 150 C115 20, 250 20, 250 150"/>
+    <path d="M300 150 C300 20, 435 20, 435 150"/>
+  </g>
+  <g transform="translate(165,250)">
+    <rect x="8" y="12" width="470" height="500" fill="#ddd8cc"/>
+    <rect width="470" height="500" fill="#f4f0e6" stroke="#d5d0c4"/>
+    <text x="235" y="250" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="28" letter-spacing="8" fill="#404040">RUMUUZ</text>
+    <line x1="150" y1="280" x2="320" y2="280" stroke="#d5d0c4" stroke-width="1"/>
+  </g>
+  <text x="400" y="900" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="18" letter-spacing="3" fill="#9a958c">placeholder</text>
+</svg>

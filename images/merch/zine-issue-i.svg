@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Placeholder for Zine Issue I">
+  <rect width="800" height="1000" fill="#eceae4"/>
+  <g transform="translate(155,110)">
+    <rect x="8" y="10" width="470" height="640" fill="#e4dfd4"/>
+    <rect width="470" height="640" fill="#fbf8f2" stroke="#d8d3c8"/>
+    <rect width="22" height="640" fill="#e7e2d6"/>
+    <text x="246" y="150" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="22" letter-spacing="8" fill="#8a8478">RUMUUZ</text>
+    <line x1="110" y1="182" x2="382" y2="182" stroke="#d8d3c8" stroke-width="1"/>
+    <text x="246" y="360" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="120" fill="#404040">I</text>
+    <text x="246" y="430" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="18" letter-spacing="6" fill="#8a8478">ISSUE</text>
+  </g>
+  <text x="400" y="900" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="18" letter-spacing="3" fill="#9a958c">placeholder</text>
+</svg>
