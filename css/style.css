@@ -617,7 +617,7 @@ nav.navigation a.button {
 
 .merch-intro {
   margin-top: 0;
-  max-width: 640px;
+  max-width: none;
 }
 
 .merch-list {
@@ -634,6 +634,16 @@ nav.navigation a.button {
   flex-direction: column;
   min-width: 0;
   padding: 0;
+}
+
+.merch-image-link {
+  display: block;
+  margin: 0 0 0.9rem;
+  line-height: 0;
+}
+
+.merch-image-link .merch-image {
+  margin: 0;
 }
 
 .merch-image {
