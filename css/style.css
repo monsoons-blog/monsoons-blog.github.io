@@ -689,6 +689,22 @@ nav.navigation a.button {
   line-height: 1.6;
 }
 
+.merch-fulfillment {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.25rem 1rem;
+  margin: 0.15rem 0 0.15rem;
+}
+
+.merch-choice {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  color: #404040;
+  font-size: 15px;
+}
+
 .merch-item p {
   margin: 0.45rem 0;
 }
